@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file alias="scrawl-16.png">icons/scrawl-16.png</file>
+        <file alias="scrawl-24.png">icons/scrawl-24.png</file>
+        <file alias="scrawl-32.png">icons/scrawl-32.png</file>
+        <file alias="scrawl-48.png">icons/scrawl-48.png</file>
+        <file alias="scrawl-64.png">icons/scrawl-64.png</file>
+        <file alias="scrawl-128.png">icons/scrawl-128.png</file>
+        <file alias="scrawl-256.png">icons/scrawl-256.png</file>
+        <file alias="scrawl-512.png">icons/scrawl-512.png</file>
+    </qresource>
+</RCC>
